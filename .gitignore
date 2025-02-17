@@ -9,8 +9,8 @@ lerna-debug.log*
 
 node_modules
 
-frontend/dist
-backend/dist
+frontend/dist/
+backend/dist/
 
 
 dist-ssr
